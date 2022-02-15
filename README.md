@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edo979
-- 👀 I’m interested in Front End, javaScript, Python
-- 🌱 I’m currently learning React, Node
+- 👀 I’m interested in Frontend, javaScript, Python
+- 🌱 I’m currently learning React, css, sass
 - 💞️ I’m looking to collaborate on JS project
 - 📫 How to reach me 
 
