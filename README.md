@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edo979 from Bosnia.
-- 👀 I’m interested in Android development usin Kotlin and Compose.
+- 👀 I’m interested in Android development using Kotlin and Compose.
 - 🌱 I’m currently building some apps.
-- 💞️ I’m looking to collaborate on Kotlin project.
+- 💞️ I’m looking to collaborate in Kotlin project.
 - 📫 How to reach me:
   - [gmail](mailto:prezentabilan@gmail.com)
 
